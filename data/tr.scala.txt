@@ -1,0 +1,8 @@
+// http://nlp.stanford.edu/software/tmt/0.4/
+
+import scalanlp.io._;
+
+val tr_news = CSVFile("TR-news.csv");
+
+println("Success: " + tr_news + " contains " + tr_news.data.size + " records");
+
