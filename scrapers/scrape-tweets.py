@@ -36,7 +36,7 @@ def nediyor_news():
         except:
             errors.append(html)
     
-    df.to_csv("TR-tweeps.csv",encoding='utf-8',index=False)
+    df.to_csv("TR-tweets.csv",encoding='utf-8',index=False)
     print errors
     
 
@@ -63,7 +63,7 @@ def theplazz_news():
         except:
             errors.append(html)
     
-    df.to_csv("US-tweeps.csv",encoding='utf-8',index=False)
+    df.to_csv("US-tweets.csv",encoding='utf-8',index=False)
     print errors
 
 
