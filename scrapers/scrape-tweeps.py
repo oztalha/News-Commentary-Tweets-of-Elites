@@ -37,11 +37,11 @@ for html in (os.listdir('nediyor_tweeps/')):
         profs = info.findAll('span','label label-default')
         profs = ', '.join([prof.text for prof in profs])
         fcnt= soup.find('a',{'id':'user-members-followers'}).span.text
-        df.loc[len(df)+1]=[twhandle, name, fcnt, profs]
         print twhandle, name, fcnt, profs
+        df.loc[len(df)+1]=[twhandle, name, fcnt, profs]
         f.close()
     except:
         errors.append(html)
 
-df.to_csv("TR-tweeps.csv",encoding='utf-8',index=False)
+df.to_csv("data/TR-tweeps.csv",encoding='utf-8',index=False)
 print errors
