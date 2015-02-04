@@ -1,6 +1,6 @@
 twhandle,name,fcnt,profs
 @06melihgokcek,Melih Gökçek,67,Politikacı
-@140darbe,Tuna Kiremitçi,29,"Yazar, Köşe Yazarı"
+@140darbe,Tuna Kiremitçi,29,"Yazar, Köşe yazarı"
 @1VolkanDEMIREL,Volkan Demirel,15,Sporcu
 @8Selcukinan,Selçuk İnan,16,Sporcu
 @aakadiroglu,Abdullah Akadiroğlu,45,Gazeteci
@@ -32,7 +32,7 @@ twhandle,name,fcnt,profs
 @ahmetrizakorkut,Ahmet Rıza Korkut,18,"Sanatçı, Yazar"
 @AhmetTasgetiren,Ahmet Taşgetiren,23,"Gazeteci, Yazar"
 @ahmettulgarr,Ahmet Tulgar,18,"Gazeteci, Yazar"
-@ahmetturanalkan,Ahmet Turan Alkan,21,Köşe Yazarı
+@ahmetturanalkan,Ahmet Turan Alkan,21,Köşe yazarı
 @ahmetyesiltepe,Ahmet Yeşiltepe,9,Sunucu
 @Ahmet_Davutoglu,Ahmet Davutoğlu,71,"Milletvekili, AK Parti"
 @AHMTKURAL,Ahmet Kural,150,Dizi oyuncusu
@@ -78,7 +78,7 @@ twhandle,name,fcnt,profs
 @alphanmanas,Alphan Manas,10,İş adamı
 @alpkirsan,Alp Kırşan,125,Dizi oyuncusu
 @AltanSan,Sanem Altan,22,Köşe yazarı
-@AltanTanrikulu,Altan Tanrıkulu,13,"Gazeteci, Köşe Yazarı, Yorumcu"
+@AltanTanrikulu,Altan Tanrıkulu,13,"Gazeteci, Köşe yazarı, Yorumcu"
 @altinsaray,Cem Altınsaray,0,"Yazar, Yorumcu"
 @amberinzaman,Amberin Zaman,39,Gazeteci
 @anjelikaakbar,Anjelika Akbar,30,Sanatçı
@@ -101,15 +101,15 @@ twhandle,name,fcnt,profs
 @atakankurt2,Atakan Kurt,14,Sunucu
 @atalaydemirci,Atalay Demirci,25,Magazin ünlüsü
 @Atalay_Besir,Beşir Atalay,1,"Milletvekili, AK Parti"
-@atigoll,Atilla Türker,4,Köşe Yazarı
+@atigoll,Atilla Türker,4,Köşe yazarı
 @atillakart,Atilla Kart,13,Milletvekili
 @AtillaSertell,Atilla Sertel,13,"Gazeteci, Yazar"
 @AtillaTasNet,Atilla Taş,134,Şarkıcı
 @AtillaYesilada1,Atilla Yesilada,5,Danışman
-@atilla_yayla,atilla yayla,8,"Akademisyen, Köşe Yazarı"
+@atilla_yayla,atilla yayla,8,"Akademisyen, Köşe yazarı"
 @Atiye,Atiye,96,Şarkıcı
 @AttilaKoksal,Attila Koksal,5,İş adamı
-@attilao,Attila Özdemiroğlu,11,Müzisyen
+@attilao,Attila Özdemiroğlu,11,Şarkıcı
 @ATuncayOzkan,Tuncay Özkan,4,"Politikacı, Gazeteci"
 @AvarBanu,Banu Avar,75,"Yazar, Yapımcı"
 @avhamzadag,Hamza Dağ,2,Milletvekili
@@ -126,7 +126,7 @@ twhandle,name,fcnt,profs
 @aykurtnuh,Aykurt Nuhoğlu,0,Politikacı
 @aykuterdogdu,Aykut Erdoğdu,23,"Milletvekili, CHP"
 @aykut_isiklar,Aykut Işıklar,24,Köşe yazarı
-@Ayla_Akat,Ayla Akat,18,"Milletvekili, BDP"
+@Ayla_Akat,Ayla Akat,18,"Milletvekili, HDP"
 @AylinAsLIM,Aylin Aslım,65,Şarkıcı
 @AylinNazliaka,Aylin Nazlıaka,33,"Milletvekili, CHP"
 @aylin_kotil,Aylin Kotil,18,Politikacı
@@ -148,7 +148,7 @@ twhandle,name,fcnt,profs
 @Balciceki,Balçiçek İlter,46,"Gazeteci, Sunucu"
 @banuguven,Banu Güven,60,Gazeteci
 @banuka,Banu Yelkovan,28,Gazeteci
-@banuzeytinoglu,Banu K. Zeytinoglu,2,
+@banuzeytinoglu,Banu K. Zeytinoglu,2,İş kadını
 @BarbarosSansal,Barbaros Şansal,70,Modacı
 @barisatay,Barış Atay,8,Sanatçı
 @BarisOrnarli,Baris Ornarli,4,Sivil toplum girişimcisi
@@ -164,7 +164,7 @@ twhandle,name,fcnt,profs
 @bedribaykam,Bedri Baykam,18,Sanatçı
 @beduk,Bedük,19,Şarkıcı
 @behzatu,Behzat Uygur,48,Sanatçı
-@bejanmatur,Bejan Matur,18,"Yazar, Köşe Yazarı"
+@bejanmatur,Bejan Matur,18,"Yazar, Köşe yazarı"
 @BekirDeveli,BekirDeveli,0,"Sunucu, Yapımcı"
 @bekirtegun,Bekir İrtegün,12,Sporcu
 @bekrcoskn,Bekir Coşkun,25,Gazeteci
@@ -217,13 +217,13 @@ twhandle,name,fcnt,profs
 @caglarmustafa,Mustafa Çağlar,1,İş adamı
 @cakir_rusen,Ruşen Çakır,22,"Gazeteci, Köşe yazarı"
 @CalikogluLevent,levent calikoglu,4,Sanatçı
-@calikoznur,Öznur Çalık,2,Köşe Yazarı
+@calikoznur,Öznur Çalık,2,Köşe yazarı
 @CanAnayasa,Osman Can,3,"Akademisyen, Hukukçu"
 @cananbarlas,Canan Barlas,20,"Yazar, Köşe yazarı"
 @canbonomo,Can Bonomo,51,Şarkıcı
 @CandanYceer,Candan Yüceer,20,"Milletvekili, CHP"
 @Candan_Dost,Candan Karlıtekin,3,İş adamı
-@CandasTolga,Candaş Tolga Işık,16,Köşe Yazarı
+@CandasTolga,Candaş Tolga Işık,16,Köşe yazarı
 @candemirkoray,Koray Candemir,1,Sanatçı
 @candundaradasi,Can Dündar,59,"Gazeteci, Yapımcı"
 @canerclsr,Caner Çalışır,0,Twitter ünlüsü
@@ -237,7 +237,7 @@ twhandle,name,fcnt,profs
 @ceceydates,Ceyda Ateş,0,"Dizi oyuncusu, Sinema oyuncusu"
 @cefi,Cefi Kamhi,7,"Politikacı, İş adamı"
 @celalpir,Celal Pir,6,Gazeteci
-@CelalToprak1,Celal Toprak,3,Köşe Yazarı
+@CelalToprak1,Celal Toprak,3,Köşe yazarı
 @celikerisci,Çelik Erişçi,1,Sanatçı
 @cemadrian,Cem Adrian,8,Sanatçı
 @cemerciyes,Cem Erciyes,2,Gazeteci
@@ -249,7 +249,7 @@ twhandle,name,fcnt,profs
 @cemseymen,Cem Seymen,0,"Sunucu, Yorumcu"
 @cem_boyner,Cem Boyner,12,İş adamı
 @cem_ozer,Cem Özer,26,"Sanatçı, Sunucu"
-@CengizCandar,Cengiz Çandar,5,"Gazeteci, Köşe Yazarı"
+@CengizCandar,Cengiz Çandar,5,"Gazeteci, Köşe yazarı"
 @CengizHrtgl,Cengiz Hortoğlu,0,Sivil toplum girişimcisi
 @cengizsemercio,Cengiz Semercioglu,11,Gazeteci
 @Cengizyavili,Cengiz Yavilioğlu,4,"Milletvekili, AK Parti"
@@ -263,7 +263,7 @@ twhandle,name,fcnt,profs
 @ceydak,Ceyda Karan,25,Gazeteci
 @Ceyda_duvenci,Ceyda Düvenci,36,"Dizi oyuncusu, Sinema oyuncusu"
 @ceyhunyilmaz,Ceyhun Yılmaz,100,"Yazar, Sunucu, Radyocu"
-@CEZA_ED,Ceza,15,
+@CEZA_ED,Ceza,15,Şarkıcı
 @CharaAsena,Asena,73,Magazin ünlüsü
 @Chphalukkoc,Haluk Koç,8,"Milletvekili, CHP"
 @cibecicina,Sibel Asna,1,İş kadını
@@ -292,7 +292,7 @@ twhandle,name,fcnt,profs
 @DemirBetul,Betül Demir,16,Sanatçı
 @DengirFirat,Dengir Firat,10,Politikacı
 @DenizPulas,Deniz Pulaş Akkartal,12,Manken
-@DenizUlke,Deniz Ülke Arıboğan,27,"Akademisyen, Köşe Yazarı"
+@DenizUlke,Deniz Ülke Arıboğan,27,"Akademisyen, Köşe yazarı"
 @deniz_arcak,Deniz Arcak,17,Şarkıcı
 @Deniz_Zeyrek,Deniz Zeyrek,5,Gazeteci
 @DereogluBuket,Buket Dereoğlu,14,Sanatçı
@@ -327,7 +327,7 @@ twhandle,name,fcnt,profs
 @D_AliTorlak,Ali Torlak,5,"Milletvekili, MHP"
 @eadksk,Engin Altan Duzyatan,41,"Dizi oyuncusu, Sunucu"
 @ebabahan,Ergun Babahan,24,Gazeteci
-@ebasaksengul,Başak Şengül,9,
+@ebasaksengul,Başak Şengül,9,Sunucu
 @EbruBaki,Ebru Baki,31,"Gazeteci, Sunucu"
 @ebrucapa,Ebru Çapa,16,"Gazeteci, Köşe yazarı"
 @ebrudestaninan,Ebru Destan İnan,19,"Manken, Şarkıcı"
@@ -351,7 +351,7 @@ twhandle,name,fcnt,profs
 @EkremDumanli,Ekrem Dumanlı,10,Gazeteci
 @eksihabermas,Ekşihabermas,22,Twitter ünlüsü
 @ekurkcuHDP,Ertuğrul Kürkçü,8,"Milletvekili, HDP"
-@elifaktug,Elif Aktug,26,Köşe Yazarı
+@elifaktug,Elif Aktug,26,Köşe yazarı
 @elifcakirr,Elif Çakır,16,Köşe yazarı
 @ElifD1,Elif Dagdeviren,23,"Gazeteci, Yapımcı"
 @elifilgaz,Elif Ilgaz,25,Gazeteci
@@ -404,10 +404,10 @@ twhandle,name,fcnt,profs
 @ertanaydin,Ertan Aydın,1,"Akademisyen, Danışman"
 @ErtugrulGunay,Ertuğrul Günay,27,"Milletvekili, Bağımsız"
 @ErtugrulTSKRN,Ertuğrul Taşkıran,3,Sporcu
-@esatcanan,Esat Canan,3,"Milletvekili, BDP"
+@esatcanan,Esat Canan,3,"Milletvekili, HDP"
 @eseryenenler,Eser YENENLER,35,"Sunucu, Tiyatro oyuncusu"
 @esesci,Sedat Kapanoğlu,1,İş adamı
-@esinovet,Esin Övet,22,"Köşe Yazarı, Sunucu"
+@esinovet,Esin Övet,22,"Köşe yazarı, Sunucu"
 @esraceydaersoy,Esra & Ceyda,110,Magazin ünlüsü
 @ETemelkuran,Ece Temelkuran,53,"Yazar, Yorumcu"
 @ethemkutu,Ethem K.,1,İş adamı
@@ -416,7 +416,7 @@ twhandle,name,fcnt,profs
 @eylulonline,Eylül Özturk,9,Twitter ünlüsü
 @EYorgancilar,Erder Yorgancılar,0,İş adamı
 @EYPMUHCU,Eyüp Muhcu,3,Sivil toplum girişimcisi
-@eyuboglualice,Ali  Eyüboğlu,14,Köşe Yazarı
+@eyuboglualice,Ali  Eyüboğlu,14,Köşe yazarı
 @eyupcansaglik,Eyüp Can,4,Gazeteci
 @ezgibasaran,Ezgi Basaran,32,Gazeteci
 @ezgimola,ezgi mola,74,Sanatçı
@@ -458,11 +458,11 @@ twhandle,name,fcnt,profs
 @fetinkazanci,Fetin Kazancı,1,İş adamı
 @feyzi_isbasaran,Feyzi İşbaşaran,2,"Politikacı, Yorumcu"
 @FGulencomTR,Fethullah Gülen,25,Din adamı
-@fikriisik,Fikri ışık,1,
+@fikriisik,Fikri ışık,1,"AK Parti, Politikacı"
 @FilizTcbs,Filiz Taçbaş,0,Dizi oyuncusu
 @firattanis,Fırat Tanış,22,"Tiyatro oyuncusu, Yazar"
-@fkoru,Fehmi Koru,10,"Gazeteci, Köşe Yazarı"
-@forzabesiktas,çArşı,16,
+@fkoru,Fehmi Koru,10,"Gazeteci, Köşe yazarı"
+@forzabesiktas,çArşı,16,Taraftar lideri
 @fthturkmenoglu,Fatih Türkmenoğlu,3,Sunucu
 @fuatavni,Fuat Avni,4,Twitter ünlüsü
 @fuatavnifuat,Fuat Avni F.,0,Twitter ünlüsü
@@ -498,7 +498,7 @@ twhandle,name,fcnt,profs
 @gulhantekin,Gülhan Tekin,9,Sanatçı
 @gulsenin,Gülşen,27,Şarkıcı
 @gulserenonanc,Gülseren Onanç,7,"Politikacı, Sivil toplum girişimcisi"
-@GultekinAvc,Gültekin Avcı,10,"Köşe Yazarı, Hukukçu"
+@GultekinAvc,Gültekin Avcı,10,"Köşe yazarı, Hukukçu"
 @gultekinbulent,Bülent Gültekin,5,"Akademisyen, Emekli bürokrat"
 @gunaydingokhan,Gökhan Günaydın,6,Milletvekili
 @gundesbakir,Pelin Gündeş Bakır,2,"Akademisyen, Milletvekili"
@@ -546,7 +546,7 @@ twhandle,name,fcnt,profs
 @Hande_Kazanova,Hande Kazanova,16,"Yorumcu, Manken"
 @HanefiAvci2014,Hanefi Avcı,0,Emekli bürokrat
 @harun_tekin,Harun Tekin,20,Şarkıcı
-@hasancelalguzel,Hasan Celal Guzel,10,"Politikacı, Köşe Yazarı"
+@hasancelalguzel,Hasan Celal Guzel,10,"Politikacı, Köşe yazarı"
 @hasandoganTR,Hasan Dogan,1,Akademisyen
 @hasankoktas,Hasan Köktaş,2,Emekli bürokrat
 @hasibe_eren,Hasibe Eren,6,"Dizi oyuncusu, Tiyatro oyuncusu"
@@ -558,14 +558,14 @@ twhandle,name,fcnt,profs
 @HAYKOCPQN,Hayko Cepkin,32,Şarkıcı
 @Hayriinonu,Hayri İnönü,0,Politikacı
 @hc_huseyincelik,Hüseyin Çelik,14,"AK Parti, Politikacı"
-@HDPDEMIRCELIK,Demir Çelik,5,HDP
-@hdpdemirtas,Selahattin Demirtaş,20,"Milletvekili, BDP"
+@HDPDEMIRCELIK,Demir Çelik,5,"Milletvekili, HDP"
+@hdpdemirtas,Selahattin Demirtaş,20,"Milletvekili, HDP"
 @Hdptugluk,Aysel Tuğluk,17,Milletvekili
 @hetenketenabi,GDO Hasan Kaçan,20,"Sanatçı, Yapımcı"
 @hidayet_karaca,Hidayet Karaca,1,Yönetici
 @hidirgevis,Hıdır Geviş,3,Gazeteci
 @hidoturkoglu15,Hidayet Türkoğlu,6,Sporcu
-@hikmetcetinkaya,Hikmet Çetinkaya,2,"Gazeteci, Köşe Yazarı"
+@hikmetcetinkaya,Hikmet Çetinkaya,2,"Gazeteci, Köşe yazarı"
 @hikmetgenc,Hikmet Genç,13,Köşe yazarı
 @hilalcebeciii,Hilal Cebeci,147,Twitter ünlüsü
 @hilal_kaplan,Hilâl Kaplan,20,Gazeteci
@@ -581,7 +581,7 @@ twhandle,name,fcnt,profs
 @huseyinsahinnet,Hüseyin Şahin,3,"Milletvekili, AK Parti"
 @HuseyinYayman,Hüseyin Yayman,1,"Akademisyen, Köşe yazarı, Yorumcu"
 @husnumahalli,Hüsnü Mahalli,14,"Gazeteci, Yazar"
-@ibinici,İbrahim Binici,8,"Milletvekili, BDP"
+@ibinici,İbrahim Binici,8,"Milletvekili, HDP"
 @ibrahimbetil,Ibrahim Betil,7,Sivil toplum girişimcisi
 @ibrahimbuyukak,İbrahim Büyükak,9,Dizi oyuncusu
 @ibrahimseten,İbrahim Seten,3,Gazeteci
@@ -617,7 +617,7 @@ twhandle,name,fcnt,profs
 @ismailsaymaz,İsmail Saymaz,0,Gazeteci
 @ismail_safi,İsmail Safi,2,"Milletvekili, AK Parti"
 @ismail_yasa,İsmail Yaşa,5,Yazar
-@ismet_berkan,İsmet Berkan,4,"Gazeteci, Köşe Yazarı"
+@ismet_berkan,İsmet Berkan,4,"Gazeteci, Köşe yazarı"
 @istiklalAkarsu,İstiklal Akarsu,21,"Yazar, Twitter ünlüsü"
 @itiresen,Itır Esen,7,Sinema oyuncusu
 @ivanasertivana,Ivana Sert,52,Modacı
@@ -632,14 +632,14 @@ twhandle,name,fcnt,profs
 @KadirGokmenOgut,Kadir Gökmen Öğüt,7,"Milletvekili, CHP"
 @KadirMisiroglu,Kadir Mısıroglu,0,Yazar
 @Kadir__Topbas,Kadir Topbaş,27,Politikacı
-@KadriGursel,Kadri Gürsel,10,"Gazeteci, Köşe Yazarı"
+@KadriGursel,Kadri Gürsel,10,"Gazeteci, Köşe yazarı"
 @Kaleagasi,Bahadir Kaleagasi,9,Yönetici
 @kamalakmustafa,Mustafa Kamalak,4,Politikacı
 @KamerGen1,Kamer Genç,32,"Milletvekili, CHP"
 @kaplanseren,Erdal Kaplanseren,2,"Gazeteci, Yazar"
 @KaracanOkan,Okan Karacan,11,Sunucu
 @karadagerhan,Erhan Karadağ,4,Gazeteci
-@KarakasEser,Eser Karakaş,3,"Akademisyen, Köşe Yazarı"
+@KarakasEser,Eser Karakaş,3,"Akademisyen, Köşe yazarı"
 @karamanhikmet,Hikmet Karaman,3,Teknik direktör
 @katkaya,Kanat Atkaya,8,Köşe yazarı
 @KavlakPevrul,Pevrul KAVLAK,1,Yönetici
@@ -647,7 +647,7 @@ twhandle,name,fcnt,profs
 @KaygusuzSema,Sema Kaygusuz,6,Yazar
 @Kaynarca_Oktay,Oktay Kaynarca,71,Sanatçı
 @kazimmolla,Kazım Mehmet,0,Akademisyen
-@kekec_ahmet,Ahmet Kekeç,26,Köşe Yazarı
+@kekec_ahmet,Ahmet Kekeç,26,Köşe yazarı
 @KemalBurkay1,Kemal Burkay,7,Politikacı
 @KemalDogulu,Kemal Dogulu,14,Şarkıcı
 @kemalgoktas,Kemal Göktaş,5,Gazeteci
@@ -661,7 +661,7 @@ twhandle,name,fcnt,profs
 @KerimcanG,Kerimcan Guleryuz,2,"Sanatçı, İş adamı"
 @kilicdarogluk,Kemal Kılıçdaroğlu,30,"Milletvekili, CHP"
 @kinikli88,Suat Kınıklıoğlu,1,Politikacı
-@kisanakgultan,Gültan Kışanak,8,"Milletvekili, BDP"
+@kisanakgultan,Gültan Kışanak,8,"Milletvekili, HDP"
 @kitapdunyasi,Sayım Çınar,0,Yazar
 @kivanctatlitug,Kıvanç Tatlıtuğ,50,Dizi oyuncusu
 @kizilirmakilkay,ilkay Akkaya,29,Sanatçı
@@ -670,7 +670,7 @@ twhandle,name,fcnt,profs
 @koraybirand,Koray Birand,0,Sanatçı
 @koraycaliskan,Koray Çalışkan,26,"Akademisyen, Köşe yazarı"
 @KorgEnginAlan,Engin Alan,0,"Milletvekili, MHP"
-@KorogluDerya,Derya Köroğlu,15,Müzisyen
+@KorogluDerya,Derya Köroğlu,15,Şarkıcı
 @kucukiskender,Küçük İskender,22,"Şair, Yazar"
 @KucukkayaIsmail,İsmail Küçükkaya,14,Gazeteci
 @kursatbasar,Kürşat Başar,6,Gazeteci
@@ -685,12 +685,12 @@ twhandle,name,fcnt,profs
 @leventerim,leventerim,15,Radyocu
 @leventtulek,levent tülek,5,Tiyatro oyuncusu
 @LeventTuzel,A. Levent Tüzel,65,"Milletvekili, HDP"
-@LeventTuzemen,Levent Tüzemen,8,Köşe Yazarı
+@LeventTuzemen,Levent Tüzemen,8,Köşe yazarı
 @LeventUzumcu,Levent Üzümcü,103,Sanatçı
 @levent_kazak,Levent Kazak,13,Sanatçı
 @leylazanainfo,Leyla Zana,0,"Milletvekili, Bağımsız"
 @Leyla_Ipekci,Leyla İpekci,2,Yazar
-@lezzetlipiyasa,Abdurrahman Yıldırım,20,Köşe Yazarı
+@lezzetlipiyasa,Abdurrahman Yıldırım,20,Köşe yazarı
 @lifeisaturkubar,vasif kortun,5,Sanatçı
 @linetmenasi,Linet Menaşi,0,Şarkıcı
 @lokmanayva,Lokman Ayva,5,Politikacı
@@ -701,7 +701,7 @@ twhandle,name,fcnt,profs
 @mahfiegilmez,Mahfi Eğilmez,8,Akademisyen
 @mahirunal,Mahir Ünal,10,"Milletvekili, AK Parti"
 @MahirZeynalov_,Mahir Zeynalov,0,Gazeteci
-@mahmutovur,mahmut övür,6,"Gazeteci, Köşe Yazarı"
+@mahmutovur,mahmut övür,6,"Gazeteci, Köşe yazarı"
 @maliilicak,mehmet ali ilicak,3,İş adamı
 @MalikEcderOzdmr,Malik Ecder Özdemir,4,"Milletvekili, CHP"
 @mancolog,Doğukan Manço,21,Sanatçı
@@ -723,7 +723,7 @@ twhandle,name,fcnt,profs
 @mehvesevin,mehves evin,7,Gazeteci
 @meldaonur,Melda Onur,6,"Milletvekili, CHP"
 @melek_baykal,Melek Baykal,2,"Dizi oyuncusu, Tiyatro oyuncusu"
-@melihaltinok,Melih Altınok,13,Köşe Yazarı
+@melihaltinok,Melih Altınok,13,Köşe yazarı
 @melihasik,Melih Aşık,9,Köşe yazarı
 @melihbayramdede,Melih Bayram Dede,2,"Gazeteci, Yorumcu"
 @melikedemirag,Melike Demirağ,10,Sanatçı
@@ -736,8 +736,8 @@ twhandle,name,fcnt,profs
 @mensurakgun,Mensur Akgün,0,"Akademisyen, Köşe yazarı"
 @mentesmurat,Murat Menteş,3,Köşe yazarı
 @meral_aksener,Meral Akşener,14,"Milletvekili, MHP"
-@MercanDede,Mercan Dede Arkın,4,Müzisyen
-@merdanyanardag,Merdan Yanardağ,5,"Gazeteci, Köşe Yazarı"
+@MercanDede,Mercan Dede Arkın,4,Şarkıcı
+@merdanyanardag,Merdan Yanardağ,5,"Gazeteci, Köşe yazarı"
 @MertGunok,Mert Günok,2,Sporcu
 @meryemuzerli,Meryem Uzerli,12,Dizi oyuncusu
 @MesutOzil1088,Mesut Özil,6,Sporcu
@@ -769,7 +769,7 @@ twhandle,name,fcnt,profs
 @mrtclkr,Murat Çeliker,4,Politikacı
 @mrvsevi,Merve Sevi,11,Dizi oyuncusu
 @msarikaya6,Muharrem Sarıkaya,2,Gazeteci
-@mserdark,M. Serdar Kuzuloğlu,9,"Köşe Yazarı, Sunucu"
+@mserdark,M. Serdar Kuzuloğlu,9,"Köşe yazarı, Sunucu"
 @MSTanrikulu,Sezgin Tanrıkulu,11,"Milletvekili, CHP"
 @MTanal,Mahmut Tanal,0,"Milletvekili, CHP"
 @mtekeli35,Mehmet Tekelioglu,2,"Milletvekili, AK Parti"
@@ -785,12 +785,12 @@ twhandle,name,fcnt,profs
 @Muneccimbasi,R. Hakan Kırkoğlu,6,Yorumcu
 @mungan_murathan,Murathan Mungan,11,Yazar
 @munibenno,Münib Engin Noyan,6,Sanatçı
-@murataksoy,Murat Aksoy,1,Köşe Yazarı
-@MuratBoz,Murat Boz,136,Müzisyen
+@murataksoy,Murat Aksoy,1,Köşe yazarı
+@MuratBoz,Murat Boz,136,Şarkıcı
 @MuratCelik_1,Murat Çelik,5,Gazeteci
 @MuratDalkilic,Murat Dalkılıç,34,Şarkıcı
 @muratdidin,Murat Didin,1,"Sporcu, Köşe yazarı"
-@muratevgin,Murat Evgin,0,Müzisyen
+@muratevgin,Murat Evgin,0,Şarkıcı
 @MuratKazanasmaz,Murat Kazanasmaz,3,Yorumcu
 @muratsabuncum,Murat Sabuncu,5,Girişimci
 @murattolga,Murat Tolga Şen,1,"Yazar, Yorumcu"
@@ -806,7 +806,7 @@ twhandle,name,fcnt,profs
 @Mustafa_Destici,Mustafa Destici,7,Politikacı
 @Mustafa___Demir,Mustafa Demir,3,Politikacı
 @mustaf_unal,Mustafa Ünal,2,Gazeteci
-@mustfsnmz,Mustafa Sönmez,5,Köşe Yazarı
+@mustfsnmz,Mustafa Sönmez,5,Köşe yazarı
 @mustinetnet,Mustafa Sandal,46,Şarkıcı
 @MU_ULKER,Murat Ülker,2,İş adamı
 @Mv_MCetin,Muhammed Çetin,1,"Milletvekili, Bağımsız"
@@ -815,7 +815,7 @@ twhandle,name,fcnt,profs
 @M_Sarigul,Mustafa Sarıgül,15,Politikacı
 @nacibostanci,Naci Bostancı,8,"Milletvekili, AK Parti"
 @NadideS,Nadide Sultan,13,Şarkıcı
-@NaferErmis,Nafer Ermiş,1,
+@NaferErmis,Nafer Ermiş,1,Yazar
 @nafigural,Nafi GÜRAL,6,İş adamı
 @Nagehanalci,Nagehan Alci,23,Köşe yazarı
 @NahitKiler,Nahit Kiler,5,İş adamı
@@ -824,10 +824,10 @@ twhandle,name,fcnt,profs
 @nasrullahayan,Nasrullah Ayan,9,İş adamı
 @nasuhigungor,Nasuhi Güngör,7,Bürokrat
 @nasuhmahruki,Nasuh Mahruki,14,Sporcu
-@nazan_oncel,Nazan Öncel,9,"Müzisyen, Şarkıcı"
+@nazan_oncel,Nazan Öncel,9,"Şarkıcı, Şarkıcı"
 @Nazenint,Nazenin Tokuşoğlu,3,Gazeteci
 @nazlicanozkan,Nazlıcan Özkan,17,Yazar
-@Nazmigur,Nazmi Gür,1,"Milletvekili, BDP"
+@Nazmigur,Nazmi Gür,1,"Milletvekili, HDP"
 @nebilozgenturk,Nebil Özgenturk,4,Yazar
 @nebilragip,Nebil İlseven,5,"İş adamı, Politikacı"
 @necatisler,necat isler,31,Sanatçı
@@ -874,7 +874,7 @@ twhandle,name,fcnt,profs
 @NurGer1,Nur Ger,3,"Sivil toplum girişimcisi, İş kadını"
 @nurisahin05,Nuri Şahin,10,Sporcu
 @NurrYerlitas,Nur Yerlitaş,21,"Modacı, Magazin ünlüsü"
-@obasturk,Onur Baştürk,8,Köşe Yazarı
+@obasturk,Onur Baştürk,8,Köşe yazarı
 @obenBudak,Oben Budak,12,Köşe yazarı
 @odalga,Özlem Dalga,6,Sunucu
 @OdunHerif,Odun Herif,7,Twitter ünlüsü
@@ -883,8 +883,8 @@ twhandle,name,fcnt,profs
 @OF_Eminagaoglu,Ömer F. Eminağaoğlu,0,Hukukçu
 @oguzksalici,Oğuz Kaan Salıcı,5,Politikacı
 @okanbayulgen,okan bayulgen,68,"Sanatçı, Yazar, Yapımcı"
-@okaygonensin,okay gönensin,3,Köşe Yazarı
-@okay_karacan,Okay Karacan,8,"Gazeteci, Köşe Yazarı"
+@okaygonensin,okay gönensin,3,Köşe yazarı
+@okay_karacan,Okay Karacan,8,"Gazeteci, Köşe yazarı"
 @oktayvural,Oktay Vural,36,Milletvekili
 @olcay_sahan10,Olcay Sahan,5,Sporcu
 @Olgunsimsek_,Olgun Şimşek,36,Sanatçı
@@ -913,7 +913,7 @@ twhandle,name,fcnt,profs
 @OsmanKoruturk,Osman Korutürk,3,"Milletvekili, CHP"
 @osmansrt,Osman Sert,2,Bürokrat
 @otaspinar,Ömer Taşpınar,1,"Akademisyen, Yazar"
-@oulagay,Osman Ulagay,1,Köşe Yazarı
+@oulagay,Osman Ulagay,1,Köşe yazarı
 @ousankoc,Oğuzhan Koç,4,Sanatçı
 @oykucelikkk,Öykü Çelik,3,Twitter ünlüsü
 @OYUNADAMI,Hakan Yılmaz,15,Sanatçı
@@ -960,7 +960,7 @@ twhandle,name,fcnt,profs
 @profozcan,Prof. Dr. Mehmet Özcan,9,"Akademisyen, Yazar"
 @PuCCaa,PuCCa,100,"Yazar, Twitter ünlüsü"
 @PYAntika,Piraye Antika,8,Yönetici
-@rahsangulsan,Rahşan Gülşan,30,Köşe Yazarı
+@rahsangulsan,Rahşan Gülşan,30,Köşe yazarı
 @RamisTopal,Ramis Topal,6,"Milletvekili, CHP"
 @RasimOzan_K,Rasim Ozan Kütahyalı,10,"Köşe yazarı, Yorumcu"
 @renemliD,Naim Dilmener,5,"Sanatçı, Yazar"
@@ -979,7 +979,7 @@ twhandle,name,fcnt,profs
 @sabahatakkiraz,Sabahat Akkiraz,38,Milletvekili
 @saba_t,saba tumer,139,Sunucu
 @sabriugan,Sabri Ugan,6,Sunucu
-@SADIOZDEMIR,Sadi Özdemir,5,"Yazar, Köşe Yazarı"
+@SADIOZDEMIR,Sadi Özdemir,5,"Yazar, Köşe yazarı"
 @safakongan,Şafak Ongan,2,Sunucu
 @safakpavey,Şafak Pavey,32,"Milletvekili, CHP"
 @SafakSezer,Şafak Sezer,15,"Sinema oyuncusu, Tiyatro oyuncusu"
@@ -990,7 +990,7 @@ twhandle,name,fcnt,profs
 @sahinmengu,Şahin Mengü,12,Politikacı
 @sahmetsahmet,Ahmet Şık,8,Gazeteci
 @SahnazCakiralp,Şahnaz Çakıralp,16,Dizi oyuncusu
-@sakiksirri,Sırrı Sakık,11,"Milletvekili, BDP"
+@sakiksirri,Sırrı Sakık,11,"Milletvekili, HDP"
 @SalarMurat,Murat Salar,0,"Ekonomist, Yönetici"
 @Salih_Kapusuz,Salih Kapusuz,10,"Milletvekili, AK Parti"
 @salimuslu_,Salim Uslu,0,"Milletvekili, AK Parti"
@@ -1013,7 +1013,7 @@ twhandle,name,fcnt,profs
 @seferlevent,Sefer Levent,2,Gazeteci
 @sehrazatmusic,Sehrazat,11,"Şarkıcı, Sanatçı"
 @sekermurat,Murat Şeker,6,Yönetmen
-@selalekadak,Selale Kadak,6,Köşe Yazarı
+@selalekadak,Selale Kadak,6,Köşe yazarı
 @selamiince,Selami İnce,2,Gazeteci
 @selcukayhn,Selçuk Ayhan,3,Politikacı
 @selcukerdem,Selçuk Erdem,16,Sanatçı
@@ -1030,7 +1030,7 @@ twhandle,name,fcnt,profs
 @serapduygulu,Serap Duygulu,0,Danışman
 @Seray_Sever,Seray Sever,26,"Sunucu, Yapımcı, Dizi oyuncusu"
 @sercanyildirim9,Sercan Yıldırım,5,Sporcu
-@SerdalAdali_BJK,Serdal Adalı,1,
+@SerdalAdali_BJK,Serdal Adalı,1,İş adamı
 @serdarakinan,Serdar Akinan,26,Gazeteci
 @serdargokalp,Serdar Gökalp,6,Sunucu
 @serdargut,serdar turgut,3,"Gazeteci, Yazar"
@@ -1077,14 +1077,14 @@ twhandle,name,fcnt,profs
 @skulkuloglu,M.Şevki Kulkuloğlu,6,"Milletvekili, CHP"
 @slymnoz,Süleyman Özışık,7,Gazeteci
 @SonerArica,Soner Arıca,9,Şarkıcı
-@sonkibar,Sabahattin Önkibar,7,Köşe Yazarı
+@sonkibar,Sabahattin Önkibar,7,Köşe yazarı
 @SONSAYI,Ateş İlyas Başsoy,14,Yazar
 @soraynazan,Nazan Şoray,18,Şarkıcı
 @srkbdy,Soner Sarıkabadayı,15,Şarkıcı
 @SrnySrkyResmi,Serenay Sarıkaya,8,"Dizi oyuncusu, Manken"
 @ssayanofficial,Seda Sayan,19,"Sunucu, Şarkıcı"
 @stelyop,Stelyo Pipis,8,Magazin ünlüsü
-@suatkavukluoglu,Suat Kavukluoğlu,0,Müzisyen
+@suatkavukluoglu,Suat Kavukluoğlu,0,Şarkıcı
 @suatkilic,Suat Kılıç,16,"Milletvekili, AK Parti"
 @SuatToktas,Suat Toktaş,1,Gazeteci
 @SUAVI_SUAVI,Suavi,24,Sanatçı
@@ -1136,11 +1136,11 @@ twhandle,name,fcnt,profs
 @tongsiroguz,Oğuz Tongsir,9,Sunucu
 @ToprakBinnaz,Binnaz Toprak,1,"Milletvekili, CHP"
 @Toramanibrahim,İbrahim Toraman,17,Sporcu
-@toygarisikli,Toygar Işıklı,30,Müzisyen
+@toygarisikli,Toygar Işıklı,30,Şarkıcı
 @Trabzonspor,Trabzonspor Kulübü,4,Spor kulübü
 @ttatari,Tuğçe Tatari,20,Gazeteci
 @ttbamteli,Tayfun Talipoğlu,33,Yapımcı
-@tturenc,Tufan Türenç,35,"Gazeteci, Köşe Yazarı"
+@tturenc,Tufan Türenç,35,"Gazeteci, Köşe yazarı"
 @tubaunsal,Tuba Ünsal,42,"Magazin ünlüsü, Modacı"
 @tufandarbaz,Tufan Darbaz,3,"Danışman, Yönetmen"
 @tugbamlstrk,Tuğba Melis Türk,3,Manken
@@ -1152,7 +1152,7 @@ twhandle,name,fcnt,profs
 @TugrulTurkes,Tuğrul Türkeş,0,"Milletvekili, MHP"
 @TulaySelamoglu,Tülay Selamoğlu,3,"Milletvekili, AK Parti"
 @Tuluhantekeli,Tuluhan Tekelioğlu,36,"Yazar, Sunucu"
-@tunabeklevic,Tuna Beklevic,2,"Politikacı, Köşe Yazarı"
+@tunabeklevic,Tuna Beklevic,2,"Politikacı, Köşe yazarı"
 @tuncatoskay,Tunca Toskay,1,Politikacı
 @tuncayopcin,Tuncay Opçin,0,Yazar
 @tuncaysanli17,Tuncay Sanli,7,Sporcu
@@ -1168,7 +1168,7 @@ twhandle,name,fcnt,profs
 @UfukUras,Ufuk Uras,31,Politikacı
 @ugurarslanua,Uğur Arslan,1,Sunucu
 @ugurdundarsozcu,Uğur Dündar,4,Gazeteci
-@UgurMeleke,Uğur Meleke,13,"Köşe Yazarı, Sunucu, Yorumcu"
+@UgurMeleke,Uğur Meleke,13,"Köşe yazarı, Sunucu, Yorumcu"
 @ugursefkat,ugursefkat,4,Gazeteci
 @ugurses,Uğur Gürses,6,Köşe yazarı
 @ugur_ergan,Ugur Ergan,12,Gazeteci
@@ -1188,15 +1188,15 @@ twhandle,name,fcnt,profs
 @UnalCevikoz,Unal Cevikoz,3,Bürokrat
 @unsalban,Ünsal Ban,2,Akademisyen
 @uralakuzum,Ural Akuzum,3,Sivil toplum girişimcisi
-@USEmbassyTurkey,US Embassy Turkey,1,
-@utkucakirozer,Utku Cakirozer,2,Köşe Yazarı
+@USEmbassyTurkey,US Embassy Turkey,1,Politikacı
+@utkucakirozer,Utku Cakirozer,2,Köşe yazarı
 @Uzulmez19,İbrahim Üzülmez,8,Sporcu
 @uzunsoray,Şoray Uzun,3,Sunucu
-@VahapMunyar,Vahap Munyar,8,"Gazeteci, Köşe Yazarı"
+@VahapMunyar,Vahap Munyar,8,"Gazeteci, Köşe yazarı"
 @Vahit_Kiler,Vahit KİLER,1,"Milletvekili, AK Parti"
 @Valimutlu,Hüseyin Avni Mutlu,18,Bürokrat
 @varank,Mustafa Varank,0,Danışman
-@vatan_sasmaz,Vatan Şaşmaz,5,
+@vatan_sasmaz,Vatan Şaşmaz,5,Sunucu
 @vedatozdemiro,Vedat Özdemiroğlu,9,Yazar
 @Vefa_Tarhan,Vefa Tarhan,5,Politikacı
 @vekilince,Muharrem İnce,40,"Milletvekili, CHP"
@@ -1211,7 +1211,7 @@ twhandle,name,fcnt,profs
 @WilmaElles,Wilma Elles,2,Dizi oyuncusu
 @yaktay,Yasin Aktay,0,"Akademisyen, Politikacı"
 @YakupSaritemur,Ayşenur İslam,0,Milletvekili
-@Yalcinbayer,Yalçın Bayer,5,"Gazeteci, Köşe Yazarı"
+@Yalcinbayer,Yalçın Bayer,5,"Gazeteci, Köşe yazarı"
 @yalcincakir,Yalcin Cakir,6,"Gazeteci, Sunucu"
 @YALINonline,Yalın,33,Şarkıcı
 @yankiyazgancom,Yankı Yazgan,7,"Akademisyen, Bilim insanı"
@@ -1225,7 +1225,7 @@ twhandle,name,fcnt,profs
 @yavuzbaydar,Yavuz Baydar,5,Gazeteci
 @yavuzoghan,Yavuz Oğhan,8,Gazeteci
 @yavuzseckin,Yavuz Seçkin,66,"Radyocu, Dizi oyuncusu"
-@yavuz_semerci,yavuz semerci,6,"Gazeteci, Köşe Yazarı"
+@yavuz_semerci,yavuz semerci,6,"Gazeteci, Köşe yazarı"
 @Yaziyor,Serdar Tuncer,5,"Sunucu, Yazar, Yorumcu"
 @yektakopan,Yekta Kopan,13,"Yazar, Sunucu"
 @yek_35,Yekta Kurtuluş,15,Sporcu
@@ -1300,6 +1300,6 @@ twhandle,name,fcnt,profs
 @mithatsancarr,mithat sancar,3,"Akademisyen, Köşe yazarı"
 @gulbenergen,Gülben Ergen,169,"Sunucu, Şarkıcı"
 @kadirdogulu,Kadir Doğulu,70,Dizi oyuncusu
-@Reha_Muhtar,Reha Muhtar,13,Köşe Yazarı
+@Reha_Muhtar,Reha Muhtar,13,Köşe yazarı
 @selin_demiratar,Selin Demiratar,5,Dizi oyuncusu
 @sedaurenNet,Seda Üren Nefesoglu,0,Şarkıcı
