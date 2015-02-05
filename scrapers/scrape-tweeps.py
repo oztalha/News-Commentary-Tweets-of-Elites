@@ -190,4 +190,57 @@ def get_tweeps_by_profession():
     py.iplot(fig,filename="Nediyor.com Commentators by Profession")
 
 
+def get_party_representation():
+    """ Plot Twitter Usage vs MP counts """
+    import pandas as pd
+    import plotly.plotly as py
+    from plotly.graph_objs import *
+
+    #http://www.tbmm.gov.tr/develop/owa/milletvekillerimiz_sd.dagilim
+    parties = {'AKP':312, 'CHP':125, 'HDP':27, 'MHP':52, 'Independent':13}
+    mpc = sum(parties.values())
+    df = pd.read_csv('data/TR-tweeps-En.csv',encoding='utf-8')
     
+    # both returns 167, so each MP belongs to one and only one party
+    # df[df.profs.str.contains('MP')].shape[0]
+    # sum(df[df.profs.str.contains(p)].shape[0] for p in parties.keys())
+    
+    # Parties' newsworthy tweet counts normalized by MP counts
+    perMP = {}
+    for p,cnt in parties.iteritems():
+        perMP[p] = df[df.profs.str.contains(p)].fcnt.sum()/float(cnt)
+
+    # Parties' newsworthy tweet counts normalized by MPs with Twitter accounts
+    perTweep = {}
+    for p,cnt in parties.iteritems():
+        perTweep[p] = df[df.profs.str.contains(p)].fcnt.sum()/float(df[df.profs.str.contains(p)].shape[0])
+    
+    
+    x  = ['AKP', 'CHP', 'MHP', 'HDP','Independent']
+    y1 = [int((perMP[p] * 100) + 0.5) / 100.0 for p in x]
+    y2 = [int((perTweep[p] * 100) + 0.5) / 100.0 for p in x]
+    
+    trace1 = Bar(x=x, y=y1, name='by their MP counts')
+    trace2 = Bar(x=x, y=y2, name='by curated tweep counts')
+    data = Data([trace1, trace2])
+    layout = Layout(
+        title="Newsworthy Tweet Counts of Turkish Parties Normalized",
+        barmode='group',
+        legend=Legend(x=0, y=1,traceorder='normal'),
+        yaxis=YAxis(title='Number of newsworthy tweets per MP'),
+        annotations=Annotations([
+            Annotation(
+            text='Code and datasets are available on <a href="https://github.com/oztalha/News-Commentary-Tweets-of-Elites">github.com/oztalha</a><br>'\
+                 'Two years of curated tweets are scraped from <a href="http://nediyor.com/">nediyor.com</a>',
+            showarrow=False,
+            x=0.01,
+            y=0.9,
+            xref='paper',
+            yref='paper',
+            xanchor='left',
+            yanchor='top',
+            align='left'
+            ),
+        ]))
+    fig = Figure(data=data, layout=layout)
+    py.iplot(fig, filename='Newsworthy Tweet Counts of Turkish Parties')

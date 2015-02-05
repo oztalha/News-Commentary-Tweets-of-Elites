@@ -8,12 +8,12 @@ twhandle,name,fcnt,profs
 @ABabuscu,Aziz Babuşcu,12,Politician
 @abagis,Bağış Erten,0,Commentator
 @abdulhamitgul,Abdulhamit Gül,0,Politician
-@abdulkadiraksu1,Abdülkadir Aksu,68,MP
+@abdulkadiraksu1,Abdülkadir Aksu,68,"AKP, MP"
 @abdulkdir_selvi,Abdulkadir Selvi,42,Journalist
 @aberatconkar,Ahmet Berat Çonkar,2,"MP, AKP"
 @acaliskan40,Abdullah Çalışkan,22,"MP, AKP"
 @acikcenk,Levent Gültekin,0,Journalist
-@ackilic76,Akif Çağatay Kılıç,2,MP
+@ackilic76,Akif Çağatay Kılıç,2,"AKP, MP"
 @acunilicali,Acun Ilıcalı,317,"TV host,  Producer"
 @ademyavuza,Adem Yavuz Arslan,31,Journalist
 @aDilipak,Abdurrahman Dilipak,55,"Journalist, Author"
@@ -63,7 +63,7 @@ twhandle,name,fcnt,profs
 @alihakanxyz,Ali Hakan,12,Columnist
 @aliHaslan,Ali H. Aslan,0,Journalist
 @Alimhamarat,Ali Murat Hamarat,9,"Journalist, Commentator"
-@aliozgunduz,Ali Özgündüz,14,"MP, Legist"
+@aliozgunduz,Ali Özgündüz,14,"Legist, CHP, MP"
 @alipoyrazoglu,Ali Poyrazoğlu,28,Theater Actor
 @alirizaozturk33,Ali Rıza Öztürk,10,"MP, CHP, Legist"
 @AliSahin501,Ali Şahin,11,"MP, AKP"
@@ -102,7 +102,7 @@ twhandle,name,fcnt,profs
 @atalaydemirci,Atalay Demirci,25,Celebrity
 @Atalay_Besir,Beşir Atalay,1,"MP, AKP"
 @atigoll,Atilla Türker,4,Columnist
-@atillakart,Atilla Kart,13,MP
+@atillakart,Atilla Kart,13,"CHP, MP"
 @AtillaSertell,Atilla Sertel,13,"Journalist, Author"
 @AtillaTasNet,Atilla Taş,134,Musician
 @AtillaYesilada1,Atilla Yesilada,5,Consultant
@@ -112,7 +112,7 @@ twhandle,name,fcnt,profs
 @attilao,Attila Özdemiroğlu,11,Musician
 @ATuncayOzkan,Tuncay Özkan,4,"Politician, Journalist"
 @AvarBanu,Banu Avar,75,"Author, Producer"
-@avhamzadag,Hamza Dağ,2,MP
+@avhamzadag,Hamza Dağ,2,"AKP, MP"
 @avomerturanli,Ömer Turanlı,0,Lawyer
 @avsarhellin,Helin Avşar,104,Celebrity
 @av_idrissahin,İdris Şahin,4,"MP, AKP"
@@ -274,7 +274,7 @@ twhandle,name,fcnt,profs
 @cigdemmater,Çiğdem Mater,14,Journalist
 @Cihannaofficial,Cihan Sensözlü,0,Stylist
 @CMYLMZ,Cem Yılmaz,151,Artist
-@csgbfarukcelik,Faruk Çelik,27,MP
+@csgbfarukcelik,Faruk Çelik,27,"AKP, MP"
 @cundubeyoglu,Ebru Cündübeyoğlu,57,TV Series actor
 @cuneytozdemir,Cüneyt Özdemir,61,"Journalist, TV host"
 @cuneytsen,Cüneyt Şen,1,"Journalist, TV host"
@@ -372,7 +372,7 @@ twhandle,name,fcnt,profs
 @emrekkinay,Emre Kinay,5,Artist
 @EmreUslu,Emre Uslu,34,Journalist
 @emrkongar,Emre Kongar,2,"Academician, Columnist, Author"
-@enginozkoc,Engin Özkoç,2,MP
+@enginozkoc,Engin Özkoç,2,"CHP, MP"
 @enisarikan,Enis Arıkan,1,Twitter Phenomenon
 @enveraysever2,enver aysever,26,"Journalist, TV host, Author"
 @EnverYucel,Enver Yücel,2,Businessman
@@ -402,7 +402,7 @@ twhandle,name,fcnt,profs
 @ersinduzen,Ersin Düzen,9,TV host
 @ersozhuseyin,Hüseyin Ersöz,6,Lawyer
 @ertanaydin,Ertan Aydın,1,"Academician, Consultant"
-@ErtugrulGunay,Ertuğrul Günay,27,"MP, Independent MP"
+@ErtugrulGunay,Ertuğrul Günay,27,"MP, Independent"
 @ErtugrulTSKRN,Ertuğrul Taşkıran,3,Athlete
 @esatcanan,Esat Canan,3,"MP, HDP"
 @eseryenenler,Eser YENENLER,35,"TV host, Theater Actor"
@@ -445,7 +445,7 @@ twhandle,name,fcnt,profs
 @Fenerbahce,Fenerbahçe SK,39,Sports club
 @fenerlicavus,omer cavusoglu,3,"Businessman, Commentator"
 @feraitinc,ferai tinc,2,Journalist
-@feramuzustun,Feramuz Üstün,3,MP
+@feramuzustun,Feramuz Üstün,3,"AKP, MP"
 @FerdanErgut,Ferdan Ergut,18,"Politician, Academician"
 @FerdiCarrefour,Ferdi Carrefour,53,Twitter Phenomenon
 @ferhan_sensoy,Ferhan Şensoy,0,Artist
@@ -458,7 +458,7 @@ twhandle,name,fcnt,profs
 @fetinkazanci,Fetin Kazancı,1,Businessman
 @feyzi_isbasaran,Feyzi İşbaşaran,2,"Politician, Commentator"
 @FGulencomTR,Fethullah Gülen,25,Religious Scholar
-@fikriisik,Fikri ışık,1,"AKP, Politician"
+@fikriisik,Fikri ışık,1,"AKP, MP, Politician"
 @FilizTcbs,Filiz Taçbaş,0,TV Series actor
 @firattanis,Fırat Tanış,22,"Theater Actor, Author"
 @fkoru,Fehmi Koru,10,"Journalist, Columnist"
@@ -500,8 +500,8 @@ twhandle,name,fcnt,profs
 @gulserenonanc,Gülseren Onanç,7,"Politician, Social entrepreneur"
 @GultekinAvc,Gültekin Avcı,10,"Columnist, Legist"
 @gultekinbulent,Bülent Gültekin,5,"Academician, Emeritus bureaucrat"
-@gunaydingokhan,Gökhan Günaydın,6,MP
-@gundesbakir,Pelin Gündeş Bakır,2,"Academician, MP"
+@gunaydingokhan,Gökhan Günaydın,6,"CHP, MP"
+@gundesbakir,Pelin Gündeş Bakır,2,"Academician, AKP, MP"
 @GunerFuat,Fuat Güner,3,Artist
 @gupseo,Gupse Özay,39,TV Series actor
 @gurcanbalik,GURCAN BALIK,1,"Consultant, Bureaucrat"
@@ -520,7 +520,7 @@ twhandle,name,fcnt,profs
 @Hadise,HADISE ACIKGOZ,129,Musician
 @hakanchelik,Hakan Celik,14,"Journalist, Columnist"
 @hakanhepcan,Hakan Hepcan,18,Twitter Phenomenon
-@hakansukur,Hakan Şükür,65,"MP, Independent MP, Commentator"
+@hakansukur,Hakan Şükür,65,"MP, Independent, Commentator"
 @hakanturpcu,Hakan Turpcu,0,Journalist
 @hakan_akkaya,hakan akkaya,47,Stylist
 @hakan_aygun,Hakan Aygün,16,"Journalist, TV host"
@@ -557,10 +557,10 @@ twhandle,name,fcnt,profs
 @haykobagdat,Hayko Bağdat,24,"Journalist, Commentator"
 @HAYKOCPQN,Hayko Cepkin,32,Musician
 @Hayriinonu,Hayri İnönü,0,Politician
-@hc_huseyincelik,Hüseyin Çelik,14,"AKP, Politician"
+@hc_huseyincelik,Hüseyin Çelik,14,"AKP, MP, Politician"
 @HDPDEMIRCELIK,Demir Çelik,5,"MP, HDP"
 @hdpdemirtas,Selahattin Demirtaş,20,"MP, HDP"
-@Hdptugluk,Aysel Tuğluk,17,MP
+@Hdptugluk,Aysel Tuğluk,17,"HDP, MP"
 @hetenketenabi,GDO Hasan Kaçan,20,"Artist, Producer"
 @hidayet_karaca,Hidayet Karaca,1,Executive
 @hidirgevis,Hıdır Geviş,3,Journalist
@@ -588,7 +588,7 @@ twhandle,name,fcnt,profs
 @ibrahimsober,İbrahim Uslu,3,Businessman
 @ibrahim_karagul,İbrahim Karagül,6,"Journalist, Author"
 @iclalaydin,İclal Aydın,57,"Author, TV Series actor"
-@idrisbal,İdris Bal,15,"MP, Independent MP"
+@idrisbal,İdris Bal,15,"MP, Independent"
 @idrisgulluce,İdris Güllüce,1,"MP, AKP"
 @ihhinsaniyardim,İHH İnsanı Yardım Vakfı,2,Social entrepreneur
 @ihsandagi,İhsan Dağı,9,"Academician, Columnist"
@@ -652,7 +652,7 @@ twhandle,name,fcnt,profs
 @KemalDogulu,Kemal Dogulu,14,Musician
 @kemalgoktas,Kemal Göktaş,5,Journalist
 @kemalgulen,Kemal Gülen,0,TV host
-@kemallaktas,Kemal Aktaş,0,"MP, Independent MP"
+@kemallaktas,Kemal Aktaş,0,"MP, Independent"
 @kemalozturk2020,Kemal Öztürk,2,Bureaucrat
 @kenandogulu,Kenan Doğulu,22,Musician
 @keremalkin,Kerem Alkin,2,Academician
@@ -688,7 +688,7 @@ twhandle,name,fcnt,profs
 @LeventTuzemen,Levent Tüzemen,8,Columnist
 @LeventUzumcu,Levent Üzümcü,103,Artist
 @levent_kazak,Levent Kazak,13,Artist
-@leylazanainfo,Leyla Zana,0,"MP, Independent MP"
+@leylazanainfo,Leyla Zana,0,"MP, Independent"
 @Leyla_Ipekci,Leyla İpekci,2,Author
 @lezzetlipiyasa,Abdurrahman Yıldırım,20,Columnist
 @lifeisaturkubar,vasif kortun,5,Artist
@@ -749,10 +749,10 @@ twhandle,name,fcnt,profs
 @metinkeceli,Metin Keçeli,1,Businessman
 @MetinUca,Metin Uca,108,"Author, TV host"
 @metinustundag,metin üstündağ,11,"Artist, Author"
-@MevlutAslanoglu,Ferit Mevlüt Aslanoğlu,2,MP
+@MevlutAslanoglu,Ferit Mevlüt Aslanoğlu,2,"CHP, MP"
 @MevlutCavusoglu,Mevlüt Çavuşoğlu,4,"MP, AKP"
 @mevluttezel,Mevlut Tezel,4,"Columnist, Commentator"
-@MHilalKaplan,Mehmet Hilal Kaplan,2,MP
+@MHilalKaplan,Mehmet Hilal Kaplan,2,"CHP, MP"
 @Mhsnkrmzgl,Mahsun Kirmizigül,38,"Musician, Director"
 @mhulkicevizoglu,Hulki Cevizoğlu,18,"Journalist, Producer"
 @mimarserdarinan,Serdar İnan,5,Businessman
@@ -798,18 +798,18 @@ twhandle,name,fcnt,profs
 @Murat_Alparslan,Murat Alparslan,2,Politician
 @Murat_ide,Murat İde,22,"Journalist, Commentator"
 @muslimsarichp,Müslim Sarı,10,"MP, CHP"
-@mustafabalbay,Mustafa Balbay,6,"Journalist, MP"
+@mustafabalbay,Mustafa Balbay,6,"Journalist, CHP, MP"
 @mustafaceceli,Mustafa Ceceli,37,Musician
 @MustafaKurdas,Mustafa Kurdaş,1,Journalist
 @mustafaltioklar,Mustafa Altioklar,22,"Producer, Director"
-@MustafaSentop,Mustafa Şentop,3,MP
+@MustafaSentop,Mustafa Şentop,3,"Academician, AKP, MP"
 @Mustafa_Destici,Mustafa Destici,7,Politician
 @Mustafa___Demir,Mustafa Demir,3,Politician
 @mustaf_unal,Mustafa Ünal,2,Journalist
 @mustfsnmz,Mustafa Sönmez,5,Columnist
 @mustinetnet,Mustafa Sandal,46,Musician
 @MU_ULKER,Murat Ülker,2,Businessman
-@Mv_MCetin,Muhammed Çetin,1,"MP, Independent MP"
+@Mv_MCetin,Muhammed Çetin,1,"MP, Independent"
 @myalcintas,Murat Yalcintas,3,Businessman
 @myikar,Metin Yıkar,8,Journalist
 @M_Sarigul,Mustafa Sarıgül,15,Politician
@@ -858,7 +858,7 @@ twhandle,name,fcnt,profs
 @niluferacikalin,Nilüfer Açıkalın,14,"Theater Actor, Author"
 @NiluferBulutt,Nilüfer Bulut,3,Businesswoman
 @Nilufergole,Nilüfer Göle,0,Academician
-@Nimet_Bas,Nimet Baş,9,MP
+@Nimet_Bas,Nimet Baş,9,"AKP, MP"
 @niranunsal,Niran Ünsal,0,Musician
 @NOdabasi,Nihat Odabaşı,16,Artist
 @Notredamedesion,Nazlı Ilıcak,39,"Journalist, Columnist"
@@ -885,7 +885,7 @@ twhandle,name,fcnt,profs
 @okanbayulgen,okan bayulgen,68,"Artist, Author, Producer"
 @okaygonensin,okay gönensin,3,Columnist
 @okay_karacan,Okay Karacan,8,"Journalist, Columnist"
-@oktayvural,Oktay Vural,36,MP
+@oktayvural,Oktay Vural,36,"MHP, MP"
 @olcay_sahan10,Olcay Sahan,5,Athlete
 @Olgunsimsek_,Olgun Şimşek,36,Artist
 @omerdongeloglu,Ömer Döngeloğlu,5,Author
@@ -976,7 +976,7 @@ twhandle,name,fcnt,profs
 @ruhsardemirel,Ruhsar Demirel,9,"MP, MHP"
 @RustemBatum,Rüstem Batum,4,Artist
 @saadetisilaksoy,Saadet Aksoy,3,TV Series actor
-@sabahatakkiraz,Sabahat Akkiraz,38,MP
+@sabahatakkiraz,Sabahat Akkiraz,38,"CHP, MP"
 @saba_t,saba tumer,139,TV host
 @sabriugan,Sabri Ugan,6,TV host
 @SADIOZDEMIR,Sadi Özdemir,5,"Author, Columnist"
@@ -1024,7 +1024,7 @@ twhandle,name,fcnt,profs
 @semihgumus,Semih Gümüş,6,"Columnist, Author"
 @semihsayginer,Semih Saygıner,20,Athlete
 @senakaleli,Sena Kaleli,6,"MP, CHP"
-@sencerayata,Sencer Ayata,3,"Academician, MP"
+@sencerayata,Sencer Ayata,3,"Academician, CHP, MP"
 @senerabdullatif,Abdüllatif Şener,83,"Politician, Academician"
 @senlikogluemine,Emine Şenlikoğlu,23,"Columnist, Commentator"
 @serapduygulu,Serap Duygulu,0,Consultant
@@ -1157,7 +1157,7 @@ twhandle,name,fcnt,profs
 @tuncayopcin,Tuncay Opçin,0,Author
 @tuncaysanli17,Tuncay Sanli,7,Athlete
 @TuncCigdem,Çiğdem Tunç,0,TV host
-@tuncelsebahat,Sebahat Tuncel,7,MP
+@tuncelsebahat,Sebahat Tuncel,7,"HDP, MP"
 @turgaydemirr,Turgay Demir,0,Commentator
 @turgayguler,Turgay Güler,3,"Journalist, Author"
 @turgayogur,Turgay Oğur,4,"Social entrepreneur, Author"
@@ -1184,7 +1184,7 @@ twhandle,name,fcnt,profs
 @umit_zileli,Ümit Zileli,9,"Journalist, Columnist"
 @umransavasinan,Umran İnan,2,"Academician, Scientist"
 @Umur_Talu,Umur Talu,6,Journalist
-@UmutOranCHP,Umut Oran,9,MP
+@UmutOranCHP,Umut Oran,9,"CHP, MP"
 @UnalCevikoz,Unal Cevikoz,3,Bureaucrat
 @unsalban,Ünsal Ban,2,Academician
 @uralakuzum,Ural Akuzum,3,Social entrepreneur
@@ -1210,7 +1210,7 @@ twhandle,name,fcnt,profs
 @volkan_bozkir,Volkan Bozkır,3,"MP, AKP"
 @WilmaElles,Wilma Elles,2,TV Series actor
 @yaktay,Yasin Aktay,0,"Academician, Politician"
-@YakupSaritemur,Ayşenur İslam,0,MP
+@Aysenurislam,Ayşenur İslam,0,"AKP, MP"
 @Yalcinbayer,Yalçın Bayer,5,"Journalist, Columnist"
 @yalcincakir,Yalcin Cakir,6,"Journalist, TV host"
 @YALINonline,Yalın,33,Musician
