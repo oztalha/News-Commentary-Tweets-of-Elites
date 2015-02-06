@@ -220,7 +220,16 @@ def get_party_representation():
     y1 = [int((perMP[p] * 100) + 0.5) / 100.0 for p in x]
     y2 = [int((perTweep[p] * 100) + 0.5) / 100.0 for p in x]
     
-    trace1 = Bar(x=x, y=y1, name='by their MP counts')
+    texts = []
+    for p in x:
+        twpset = df[df.profs.str.contains(p)].twhandle.tolist()
+        text = u''
+        for i,twp in enumerate(twpset):
+            #twp = '<a href="http://twitter.com/'+twp[1:]+'">'+ twp +'</a>'
+            text+= ' '+ twp if (i+1) % 10 != 0 else '<br>'+twp
+        texts.append(text)
+        
+    trace1 = Bar(x=x, y=y1, name='by their MP counts', text = texts)
     trace2 = Bar(x=x, y=y2, name='by curated tweep counts')
     data = Data([trace1, trace2])
     layout = Layout(
@@ -244,3 +253,6 @@ def get_party_representation():
         ]))
     fig = Figure(data=data, layout=layout)
     py.iplot(fig, filename='Newsworthy Tweet Counts of Turkish Parties')
+    
+    #tweep/mp ratio
+    y = [df[df.profs.str.contains(p)].shape[0] for p in x]
